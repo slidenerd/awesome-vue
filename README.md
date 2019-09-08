@@ -2037,9 +2037,7 @@ Tooltips / popovers
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue.js 2.
 - [Basys](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 - [CabloyJS](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
-
-
-
+- [Benchmarks for the fastest SSR Framework in Vue.js](https://github.com/slidenerd/ssr_speed_test) Here are benchmarks comparing the fastest SSR Framework in Vue.js between plain express with vue components, native Vue SSR and NuxtJS
 
 
 
